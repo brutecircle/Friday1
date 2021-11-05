@@ -20,10 +20,10 @@
         14) Create a class with a border assigned to it //
         15) Set the previously created table to have rounded corners//
         16) Add a margin between every paragraph //
-        17) Create a class which changes font size and text weight when applied
-        18) Create a class to hide a piece of content
-        19) Add a green border to each <td>
-        20) Add a dotted red border to each <tr> (note: <tr> does not accept a border property)
+        17) Create a class which changes font size and text weight when applied //
+        18) Create a class to hide a piece of content //
+        19) Add a green border to each <td> //
+        20) Add a dotted red border to each <tr> (note: <tr> does not accept a border property) //
 
         JS EXERCISES
 
