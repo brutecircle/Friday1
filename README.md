@@ -1,11 +1,11 @@
 <!--
         HTML EXERCISES
 
-        1) Create a title for this webpage
-        2) Create a heading of your choice
-        3) Create an ordered list with some list items into it
-        4) Create a table with 5 columns and 4 rows
-        5) Add an image to each second cell of every row
+        1) Create a title for this webpage//
+        2) Create a heading of your choice//
+        3) Create an ordered list with some list items into it //
+        4) Create a table with 5 columns and 4 rows //
+        5) Add an image to each second cell of every row //
         6) Add a anchor link for every image
         7) Merge together 2 table cells
         8) Divide the page using a horizontal line
