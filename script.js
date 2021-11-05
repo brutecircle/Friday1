@@ -23,7 +23,9 @@ delete person.email
 let stringArr = ["Hello","world","Its","me","i","was","wondering","if","after","all"]
 console.log(stringArr)
 // ex5
+console.log(stringArr)
 
+// ex6 
 let array = [];
 while(array.length < 100){
     let randomNum = Math.floor(Math.random() * 100) + 1;
@@ -31,4 +33,29 @@ while(array.length < 100){
 }
 console.log(array);
 
-// ex6
+// ex7
+// iterate through the whole array 
+console.log(Math.max(...array))
+console.log(Math.min(...array))
+
+// ex8
+const arrayOfarr = Array(10) 
+				.fill()
+				.map(() => Math.floor(10 * Math.random()));
+
+console.log(arrayOfarr);
+
+// ex 9
+let arry = ["john", "Doe"]
+const longest = arry.sort(
+    function (a, b) {
+        return b.length - a.length;
+    }
+)[0];
+console.log(longest)
+
+// ex 10
+let  arr2 = [1, 3];
+let biggestValue = Math.max(...arr2);
+console.log(biggestValue)
+
