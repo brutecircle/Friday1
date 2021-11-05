@@ -7,19 +7,19 @@
         4) Create a table with 5 columns and 4 rows //
         5) Add an image to each second cell of every row //
         6) Add a anchor link for every image
-        7) Merge together 2 table cells
-        8) Divide the page using a horizontal line
-        9) Create a container with a nested paragraph and a nested unordered list
-        10) Create a footer with some information about the page creator
+        7) Merge together 2 table cells //
+        8) Divide the page using a horizontal line//
+        9) Create a container with a nested paragraph and a nested unordered list//
+        10) Create a footer with some information about the page creator //
 
         CSS EXERCISES
 
         11) Give a maximum width to the body and center it into the page
-        12) Set every h1 to be centered
-        13) Change the color of each link in the page
-        14) Create a class with a border assigned to it
-        15) Set the previously created table to have rounded corners
-        16) Add a margin between every paragraph
+        12) Set every h1 to be centered //
+        13) Change the color of each link in the page //
+        14) Create a class with a border assigned to it //
+        15) Set the previously created table to have rounded corners//
+        16) Add a margin between every paragraph //
         17) Create a class which changes font size and text weight when applied
         18) Create a class to hide a piece of content
         19) Add a green border to each <td>
