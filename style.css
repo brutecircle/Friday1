@@ -19,9 +19,6 @@ table {
   border-style: dotted;
   border-radius:10px;
 }
-tr{
-    
-}
 td,
 th {
 margin: 20px;
@@ -37,7 +34,7 @@ img {
   width: auto;
   margin: 10px;
 }
-.container{
+#container{
     padding: 20px;
     margin: 50px;
     /* to divide the page  */

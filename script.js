@@ -59,3 +59,15 @@ let  arr2 = [1, 3];
 let biggestValue = Math.max(...arr2);
 console.log(biggestValue)
 
+
+// ex 31 
+let thefirst = document.getElementById("container");
+
+// ex 32 
+let table1 = document.getElementsByTagName("td");
+
+
+// ex 33 
+for (i =0; i <= 10; i++){
+    
+}
